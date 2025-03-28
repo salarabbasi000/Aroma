@@ -1,0 +1,4 @@
+create table if not exists products (
+prod_name varchar(300),
+type varchar(100)
+)
